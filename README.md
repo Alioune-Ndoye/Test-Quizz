@@ -1,4 +1,4 @@
-# Coding Quiz
+# Test-Quizz
 
 A full-stack MERN application that allows users to take a tech quiz with 10 random questions. The project features a React front end, a Node.js/Express server with MongoDB, and comprehensive testing with Cypress (both component and end-to-end).
 
