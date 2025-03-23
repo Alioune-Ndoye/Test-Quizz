@@ -22,7 +22,7 @@ This project uses Cypress for testing.
 - https://app.screencastify.com/v3/watch/c3dw3vzKN84rYGzKkFAz
 
 ## Links
-- https://github.com/asteining/Module-Challenge-19-Aramis-Steininger
+- https://github.com/Alioune-Ndoye/Test-Quizz
 
 ## License
 This project is licensed under the MIT License.
