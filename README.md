@@ -17,9 +17,6 @@ This project uses Cypress for testing.
   - npx cypress run
 
 
-## Walkthrough Videos
-- https://app.screencastify.com/v3/watch/iSRzQ1x06NJsTwr3lTTo
-- https://app.screencastify.com/v3/watch/c3dw3vzKN84rYGzKkFAz
 
 ## Links
 - https://github.com/Alioune-Ndoye/Test-Quizz
